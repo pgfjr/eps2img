@@ -32,5 +32,5 @@ For licensing, additional features, and bug reports, please contact the author a
 
 EPS2IMG is good enough to convert the following sample(s):
 
-![Tiger](https://github.com/pgfjr/eps2img/tree/main/samples/tiger.png)
+<img src="https://github.com/pgfjr/eps2img/tree/main/samples/tiger.png"/>
 
