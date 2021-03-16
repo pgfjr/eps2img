@@ -19,7 +19,7 @@ To compile the program, you need the Cairo graphics library, which includes some
 ## Copying
 
 This program is released under the GNU General Public License
-version 3 or newer. See the COPYING file included with this distribution or
+version 3 or newer. See the LICENSE file included with this distribution or
 <http://www.gnu.org/licenses/>.
 
 	Copyright (c) 2020 Peter Frane Jr.
