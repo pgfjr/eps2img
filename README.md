@@ -32,7 +32,7 @@ For licensing, additional features, and bug reports, please contact the author a
 
 EPS2IMG is good enough to convert the samples below. (Note: These images were cropped.)
 
-The well-known PostScript tiger
+The well-known PostScript tiger. Credit to the original author(s).
 
 <img src="samples/tiger.png"/>
 
