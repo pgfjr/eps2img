@@ -32,5 +32,16 @@ For licensing, additional features, and bug reports, please contact the author a
 
 EPS2IMG is good enough to convert the following sample(s):
 
+The well-known PostScript tiger
+
 <img src="samples/tiger.png"/>
+
+Doretree. Original author: Jesse Don Hickson III. Public-domain file.
+
+<img src="samples/dore.png"/>
+
+Nefertiti. The original file can be found here: <https://www.codeproject.com/Articles/909/Achieving-PostScript-and-Wmf-outputs-for-OpenGL>
+
+<img src="samples/nefertiti_flat.png"/>
+
 
