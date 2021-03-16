@@ -30,7 +30,7 @@ For licensing, additional features, and bug reports, please contact the author a
 
 ## Samples
 
-EPS2IMG is good enough to convert the samples below. (Note: These images were cropped and converted to PNG.)
+EPS2IMG is good enough to convert the samples below. (Note: These images were cropped from the PDF and converted to PNG.)
 
 The well-known PostScript tiger. Credit to the original author(s).
 
