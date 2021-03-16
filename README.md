@@ -22,7 +22,7 @@ This program is released under the GNU General Public License
 version 3 or newer. See the COPYING file included with this distribution or
 <http://www.gnu.org/licenses/>.
 
-	Copyright &copy; 2020 Peter Frane Jr.
+	Copyright (c) 2020 Peter Frane Jr.
 
 ## Contact
 
